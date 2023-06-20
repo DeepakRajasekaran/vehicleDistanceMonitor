@@ -5,7 +5,7 @@ This project uses a YOLOv4-tiny object detection model to detect vehicles on the
 ## Features
 
 * Detects vehicles of different classes, including cars, trucks, and buses.
-* Can be used to detect vehicles in real time or in pre-recorded videos.
+* Can be used to detect vehicles in real time from camera input for simulation purpose pre-recorded videos are used.
 * Can be used in self-driving cars or other applications.
 
 ## Benefits
