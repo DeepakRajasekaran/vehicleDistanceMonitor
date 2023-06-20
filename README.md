@@ -1,6 +1,6 @@
 # vehicleDistanceAlert
 
-This project uses a YOLOv4-tiny object detection model to detect vehicles on the road and alert the driver if they are too close.
+This project uses a [YOLOv4-tiny](https://github.com/ultralytics/yolov4/tree/master/models/yolov4-tiny) object detection model to detect vehicles on the road and alert the driver if they are too close.
 
 ## Features
 
@@ -18,22 +18,22 @@ This project uses a YOLOv4-tiny object detection model to detect vehicles on the
 
 The system can be used by self-driving cars, driver assistance systems, or anyone who wants to detect vehicles in their environment.
 
-To use the system, you will need to install the OpenCV library and the YOLOv4-tiny model. You can then run the Python script to detect vehicles in real time or in pre-recorded videos.
+To use the system, you will need to install the [OpenCV library](https://opencv.org/) and the YOLOv4-tiny model. You can then run the [Python script](https://github.com/DeepakRajasekaran/vehicleDistanceMoniter/blob/main/vehicleDistanceAlert.py) to detect vehicles in real time or in pre-recorded videos.
 
 ## Contributions
 
-This project is open source, so anyone can contribute to its development. If you have any ideas for improvements, please feel free to open a pull request.
+This project is open source, so anyone can contribute to its development. If you have any ideas for improvements, please feel free to open a [pull request](https://github.com/DeepakRajasekaran/vehicleDistanceMoniter/compare).
 
 ## License
 
-The project is licensed under the MIT License. This means that you are free to use, modify, and redistribute the project for any purpose.
+The project is licensed under the [MIT License](https://opensource.org/licenses/MIT). This means that you are free to use, modify, and redistribute the project for any purpose.
 
 ## Acknowledgements
 
 This project would not have been possible without the help of the following people and organizations:
 
-* The authors of the YOLOv4-tiny object detection model.
-* The OpenCV library developers.
-* The GitHub community.
+* The authors of the [YOLOv4-tiny](https://github.com/ultralytics/yolov4/tree/master/models/yolov4-tiny) object detection model.
+* The [OpenCV library](https://opencv.org/) developers.
+* The [GitHub community](https://github.com/).
 
 Thank you for your contributions!
