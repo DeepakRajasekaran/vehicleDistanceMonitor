@@ -26,7 +26,8 @@ This project is open source, so anyone can contribute to its development. If you
 
 ## License
 
-The project is licensed under the [MIT License](https://opensource.org/licenses/MIT). This means that you are free to use, modify, and redistribute the project for any purpose.
+The project is licensed under the [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+. This means that you are free to use, modify, and redistribute the project for any purpose.
 
 ## Acknowledgements
 
