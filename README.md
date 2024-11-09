@@ -1,4 +1,4 @@
-# vehicleDistanceAlert
+# vehicleDistanceMonitor
 
 This project uses a [YOLOv4-tiny](https://github.com/ultralytics/yolov4/tree/master/models/yolov4-tiny) object detection model to detect vehicles on the road and alert the driver if they are too close.
 
